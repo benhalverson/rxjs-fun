@@ -1,0 +1,23 @@
+{
+  "name": "rxjsDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhalverson/rxjs-fun.git"
+  },
+  "keywords": [],
+  "author": "Ben Halverson <benhalverson33@gmail.com> (http://benhalverson.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benhalverson/rxjs-fun/issues"
+  },
+  "homepage": "https://github.com/benhalverson/rxjs-fun#readme",
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
